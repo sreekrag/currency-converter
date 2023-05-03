@@ -11,9 +11,6 @@ input,select{
     border:0;
     color:#9f9e9e;
 }
-select:hover{
-    color:red;
-}
 
 input{
     padding-left: 0.5rem;
